@@ -7,4 +7,5 @@ I was also able to put into practice what I studied in HTML/CSS.
 
 Link to see the various HTML tags available : https://www.w3schools.com/tags/tag_link.asp
 Link to see the various CSS tqgs available : https://developer.mozilla.org/en-US/docs/Web/CSS
+Link to YouTube videos for further learning : https://www.youtube.com/@KevinPowell
 Link to learn GitHub connections while having fun : https://learngitbranching.js.org
